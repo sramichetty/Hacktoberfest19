@@ -2,7 +2,7 @@
 
 Add your name to the list below, and send a PR
 
-| Name | Github profile | 
+| Name | Github profile |
 |:----:|:--------------:|
 | Angad Sharma | [L04DB4L4NC3R](https://github.com/L04DB4L4NC3R) |
 | Divyansh Khandelwal | [noob-master147](https://github.com/noob-master147)|
@@ -33,6 +33,7 @@ Add your name to the list below, and send a PR
 | Shreyansh Kuls | [shreyansh27kuls](https://github.com/shreyansh27kuls) |
 | Vansh Goel | [vanshg395](https://github.com/vanshg395) |
 | Jakob Hagl | [Jakobu5](https://github.com/Jakobu5) |
+| Kevin Dorner | [mrhspecter](https://github.com/mrhspecter) |
 | Nishant Raj | [Nishant Raj](https://github.com/coolnishant) |
 | Vinit Shahdeo | [vinitshahdeo](https://github.com/vinitshahdeo) |
 | Enox Sutrisno | [enoxSutrisno](https://github.com/enoxSutrisno) |
@@ -63,15 +64,81 @@ Add your name to the list below, and send a PR
 | Adit Pabbi | [adirids](https://github.com/adirids) |
 | Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
-| Sarthak Agrawal| [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448) |
-| Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) | 
+| Sunandan Chakrabarti| [SunandanChakrabarti](https://github.com/SunandanChakrabarti) |
 | Chip Baker | [diab3t3s](https://github.com/diab3t3s) |
 | Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
 | Dominic Frischknecht | [LordBrud](https://github.com/LordBrud) |
 | George Zadorozhny | [SirJoraH21](https://github.com/SirJoraH21) |
 | Matt X | [mxcul1](https://github.com/mxcul1) |
-| Tom Dell | [Tom-Dell](https://github.com/tom-dell/) | 
+| Tom Dell | [Tom-Dell](https://github.com/tom-dell/) |
 | Udai Agarwal | [UdaiAgarwal](https://github.com/UdaiAgarwal) |
 | Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 | Tarun Jain | [tarun885](https://github.com/tarun885) |
+| Iishi Patel | [iishipatel](https://github.com/iishipatel) |
+| Piyush Bajaj | [piyushxbajaj](https://github.com/piyushxbajaj) |
+| Anonymouse | [anonymouse-bleep](https://github.com/anonymouse-bleep) |
+| Caio Perd | [perdona](https://github.com/perdona) |
+| Athul CS | [athulcs](https://github.com/athulcs) |
+| Deepesh Baid | [deepeshbaid](https://github.com/deepeshbaid) |
+| Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar) |
+| Anurag A | [Anurag-A-K](https://github.com/Anurag-A-K) |
+| Rajesh Alane | [rajeshalane](https://github.com/rajeshalane) |
+| Ravi Jyoti | [ravijyoti3](https://github.com/ravijyoti3) |
+| Urvashi Gupta |[urvashigupta7](https://github.com/urvashigupta7) |
+| Ayush Tripathi | [ayush998](https://github.com/ayush998) |
+| Trippy | [trippy123](https://github.com/trippy123) |
+| The Unknown | [the_Unknown](https://github.com/the_Unknown) |
+| Kshitij Mishra | [kshitij299](https://github.com/kshitij299) |
+| Kunal S | [kunal-sanghvi](https://github.com/kunal-sanghvi) |
+| Elangovan Sundar | [Elangovan Sundar](https://github.com/elangovanshanthi) |
+| Sneha Raina | [SnehaR26](https://github.com/SnehaR26) |
+| Baecon | [Baecon](https://github.com/Baecon) |
+| Elfin Sanjaya| [elfinsanjaya12](https://github.com/elfinsanjaya12) |
+| Debajit Chakraborty | [debajit15kgp](https://github.com/debajit15kgp) |
+| S.Ramaneswaran | [ramaneswaran](https://github.com/ramaneswaran)|
+| Babak | [BabakMoeinifar](https://github.com/BabakMoeinifar)|
+| Aditya Vikram| [avikram553](https://github.com/avikram553)|
+| Naman Paharia | [NamanPaharia](https://github.com/NamanPaharia) |
+| JayDee94 | [jaydee94](https://github.com/jaydee94)|
+| Yusuf Adefolahan | [sanxy](https://github.com/sanxy) |
+| Joseph Chungath | [crjoseph97](https://github.com/crjoseph97)|
+| O.Charles Tochukwu | [charlyTochi/](https://github.com/charlyTochi) |
+| Suryakant Pandey| [suryakantpandey](https://github.com/suryakantpandey) |
+|Abhinav . Gorantla|[AbhinavGor](https://github.com/AbhinavGor)|
+| Vaibhav Pandey | [vaibhav12](https://github.com/vaibhav12) |
+| Kartik Sharma | [kar234](https://github.com/kar234) |
+| P.Suresh Kumar | [sureshpathipati](https://github.com/sureshpathipati)|
+| Ramiz Khan | [ramizkhan99](https://github.com/ramizkhan99)|
+| Raunak Banerjee | [BanerjeeRaunak99](https://github.com/BanerjeeRaunak99) |
+| Aditya Nalini | [adinalini](https://github.com/adinalini)|
+| KalyanVemuri | [Kalyan](https://github.com/KalyanVem)|
+| yash surya | [yashsurya1105](https://github.com/yashsurya)|
+| Tanmay Arora | [sinbycosmay](https://github.com/sinbycosmay)|
+| Siva Subramanian | [sivasubramanian95](https://github.com/sivasubramanian95) |
+| Ivan Elv | [ivanelv](https://github.com/ivanelv)|
+| william eileen | [wicsm29](https://github.com/wicsm29)|
+| Kundan Kumar | [Kundan28](https://github.com/Kundan28)|
+| Pratyay Banerjee | [Neilblaze](https://github.com/Neilblaze)|
+| Bozhidar Kirev | [BKirev](https://github.com/BKirev)|
+| Yavonix | [Namor888](https://github.com/Namor888)|
+| tmttan03 | [tmttan03](https://github.com/tmttan03)|
+| Sahaaj Singh Chawla | [sahaaj](https://github.com/sahaaj)|
+| Ruslan Gerasimov | [gerasimov](https://github.com/gerasimov)|
+| Shubham Verma | [shubhamvrm](https://github.com/shubhamvrm)|
+| Arman Singh | [armansingh7982](https://github.com/armansingh7982)|
+| Tanmay Arora | [sinbycosmay](https://github.com/sinbycosmay)|
+| Rafli Ramadhan | [raflidev](https://github.com/raflidev)|
+| V Sriram | [sriram-8](https://github.com/sriram-8) |
+|srinija ramichetty|[sramichetty](https://github.com/sramichetty)|
+|Goutham|[G0utham15](https://github.com/G0utham15)|
+| Akshat Mishra |[RoXie124](https://github.com/RoXie124)|
+|vedant pople|[vedantpople4](https://github.com/vedantpople4)|
+|Rishi Ranjan|[Rishi425](Https://GitHub.com/Rishi425)|
+|Vedant pople|[vedantpople4](https://github.com/vedantpople4)|
+|Jonathan de Z|[jonathandezoete](https://github.com/jonathandezoete)|
+|Aman Zishan M.A | [codemaniac](https://github.com/Aman-zishan)|
+|Jose Thomas | [codemaniac](https://github.com/josethomas16@karunya.edu.in)|
+|Kevin Samaraweera| [Kevva9844](https://github.com/Kevva9844)|
+|Mulubwa Chungu | [Mulubwa17](https://github.com/Mulubwa17)|
+|Shreyansh Jain | [jain-shreyansh](https://github.com/jain-shreyansh/)|
